@@ -31,3 +31,22 @@ python app.py
 
 ## Author
 YUKTAA K
+## Deployment
+
+This project has been successfully deployed using Flask and Render.
+
+### Live Deployment
+https://fraud-detection-api-1-zoff.onrender.com
+
+### Deployment Stack
+- Flask
+- Gunicorn
+- Render
+- GitHub
+
+### Deployment Steps
+1. Created Flask API
+2. Added requirements.txt
+3. Added Procfile
+4. Connected GitHub repository
+5. Deployed on Render cloud platform
